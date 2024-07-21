@@ -53,12 +53,12 @@ I'm an **Experienced Full Stack Developer** with expertise in backend developmen
 
 ## 🌟 Featured Projects
 
-### [E-commerce Web App](https://github.com/osama-mousa/ecommerce-web-app)
+### [E-commerce Web App](https://github.com/osama-mousa/ecommerce)
 An advanced e-commerce platform with a user-centric design, combining modern technologies to enhance the online shopping experience for both customers and sellers.
 
 **Technologies Used:** Next.js, Strapi, Cloudinary, Clerk, HyperUI, Tailwind CSS
 
-[E-commerce Web App](https://github.com/osama-mousa/ecommerce-web-app)
+[E-commerce Web App](https://github.com/osama-mousa/ecommerce)
 
 ### [Oniki](https://github.com/osama-mousa/oniki)
 A hybrid event platform leveraging AI for B2B matchmaking, featuring robust testing and performance capabilities.
