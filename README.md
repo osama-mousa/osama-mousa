@@ -1,4 +1,4 @@
-# Osama Mousa 👋
+# Osama Mousa 
 
 I'm an **Experienced Full Stack Developer** with expertise in backend development, software testing, and frontend technologies. skilled in PHP, Laravel, HTML, CSS, JavaScript, and modern frontend frameworks like React and Next.js. Proficient in both manual and automated testing, including comprehensive test planning and performance testing. Interested in Penetration Testing. Effective collaborator with strong communication, teamwork, and project management skills. I am always eager to learn new technologies and improve my skills.
 
