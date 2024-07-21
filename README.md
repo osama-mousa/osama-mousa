@@ -1,12 +1,7 @@
-# Hi there, I'm Osama Mousa 👋
+# Osama Mousa 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/XXXXX/profile-banner.png)
+I'm an **Experienced Full Stack Developer** with expertise in backend development, software testing, and frontend technologies. skilled in PHP, Laravel, HTML, CSS, JavaScript, and modern frontend frameworks like React and Next.js. Proficient in both manual and automated testing, including comprehensive test planning and performance testing. Interested in Penetration Testing. Effective collaborator with strong communication, teamwork, and project management skills. I am always eager to learn new technologies and improve my skills.
 
-## 👨‍💻 About Me
-
-I'm a passionate **Full Stack Developer** with expertise in backend development, software testing, and frontend technologies. With a solid foundation in PHP and Laravel, as well as hands-on experience with modern frontend frameworks like React and Next.js, I enjoy building scalable and high-performance applications. I am always eager to learn new technologies and improve my skills.
-
----
 
 ## 🛠 Skills
 
@@ -28,13 +23,33 @@ I'm a passionate **Full Stack Developer** with expertise in backend development,
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-782B90?style=for-the-badge&logo=k6&logoColor=white)
+![Loadium](https://img.shields.io/badge/Loadium-000000?style=for-the-badge&logo=loadium&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-00CCFF?style=for-the-badge&logo=apigee&logoColor=white)
+![Stress Testing](https://img.shields.io/badge/Stress%20Testing-FF4500?style=for-the-badge&logo=stress&logoColor=white)
+![Load Testing](https://img.shields.io/badge/Load%20Testing-FF4500?style=for-the-badge&logo=load&logoColor=white)
+![Security Testing](https://img.shields.io/badge/Security%20Testing-000000?style=for-the-badge&logo=security&logoColor=white)
+![Browser DevTools](https://img.shields.io/badge/Browser%20DevTools-00CCFF?style=for-the-badge&logo=browser&logoColor=white)
 
 ### Other
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-00CCFF?style=for-the-badge&logo=rest&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Redmine](https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
+![Basecamp](https://img.shields.io/badge/Basecamp-71B24C?style=for-the-badge&logo=basecamp&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0078FF?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Search](https://img.shields.io/badge/Search-FF4500?style=for-the-badge&logo=search&logoColor=white)
+![Defect/Bug Tracking](https://img.shields.io/badge/Defect/Bug%20Tracking-FF4500?style=for-the-badge&logo=bug&logoColor=white)
 
----
+### Soft Skills
+- Interpersonal skills
+- Communication
+- Teamwork
+- Efficiency
 
 ## 🌟 Featured Projects
 
@@ -43,40 +58,32 @@ An advanced e-commerce platform with a user-centric design, combining modern tec
 
 **Technologies Used:** Next.js, Strapi, Cloudinary, Clerk, HyperUI, Tailwind CSS
 
-![E-commerce Web App](https://user-images.githubusercontent.com/XXXXX/ecommerce-app.png)
+[E-commerce Web App](https://github.com/osama-mousa/ecommerce-web-app)
 
 ### [Oniki](https://github.com/osama-mousa/oniki)
 A hybrid event platform leveraging AI for B2B matchmaking, featuring robust testing and performance capabilities.
 
 **Technologies Used:** Cypress, Postman, K6, Browser DevTools, Cloud Cypress
 
-![Oniki](https://user-images.githubusercontent.com/XXXXX/oniki.png)
+[https://oniki.net](https://oniki.net)
 
 ### [Ivmo](https://github.com/osama-mousa/ivmo)
 International Virtual Money Operations platform with comprehensive testing and management features.
 
 **Technologies Used:** Loadium, Browser DevTools, Jenkins, Cypress, Postman
 
-![Ivmo](https://user-images.githubusercontent.com/XXXXX/ivmo.png)
-
----
+[https://ivmo.com/](https://ivmo.com/)
 
 ## 📚 Education
 
-**Faculty of Computer Programming, Bartin University**  
-Bartin, Turkey  
-Bachelor's Degree  
+**Bartin University**  
+Bachelor of Computer Programming
 *08/2019 - 08/2021*
 
----
-
 ## 🌍 Languages
-
-- **Turkish** (Native)
-- **English** (Professional)
-- **Arabic** (Fluent)
-
----
+- **Arabic** (Native)
+- **English** (Elementary proficiency)
+- **Turkish** (Professional)
 
 ## 📫 Contact Me
 
@@ -84,11 +91,3 @@ Bachelor's Degree
 - **Phone:** +905522965063
 - **LinkedIn:** [osama-mousa-568364209/](https://www.linkedin.com/in/osama-mousa-568364209/)
 - **GitHub:** [github.com/osama-mousa](https://github.com/osama-mousa)
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXX/github-logo.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/XXXXX/linkedin-logo.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/XXXXX/email-logo.png" width="50"/>
-</p>
