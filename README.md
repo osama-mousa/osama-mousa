@@ -74,17 +74,6 @@ International Virtual Money Operations platform with comprehensive testing and m
 
 [https://ivmo.com/](https://ivmo.com/)
 
-## 📚 Education
-
-**Bartin University**  
-Bachelor of Computer Programming
-*08/2019 - 08/2021*
-
-## 🌍 Languages
-- **Arabic** (Native)
-- **English** (Elementary proficiency)
-- **Turkish** (Professional)
-
 ## 📫 Contact Me
 
 - **Email:** [osamasayd141@gmail.com](mailto:osamasayd141@gmail.com)
