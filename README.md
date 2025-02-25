@@ -82,5 +82,5 @@ International Virtual Money Operations platform with comprehensive testing and m
 
 - **Email:** [osamasayd141@gmail.com](mailto:osamasayd141@gmail.com)
 - **Phone:** +905522965063
-- **LinkedIn:** [osama-mousa-568364209/](https://www.linkedin.com/in/osama-mousa-568364209/)
+- **LinkedIn:** [ossamamousa/](https://www.linkedin.com/in/ossamamousa)
 - **GitHub:** [github.com/osama-mousa](https://github.com/osama-mousa)
