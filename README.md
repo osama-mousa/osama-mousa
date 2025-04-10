@@ -1,7 +1,6 @@
 # Osama Mousa 
 
-Experienced Full Stack Developer skilled in Frontend Development (React.js, Next.js, HTML, CSS, JavaScript) and Backend Development (PHP, Laravel). Proficient in both Manual and Automated Testing, including test planning and performance testing. Passionate about Penetration Testing and continuously learning new technologies. Strong collaborator with excellent communication, teamwork, and project management skills.
-
+Passionate and skilled Penetration Tester with a strong foundation in web security and ethical hacking. Experienced in identifying vulnerabilities and securing web applications. Also proficient in Frontend Development (React.js, Next.js, HTML, CSS, JavaScript) and Backend Development (PHP, Laravel), enabling a deeper understanding of full-stack application security. Familiar with both Manual and Automated Testing, including test planning and performance testing. Continuously learning and exploring the latest in cybersecurity. Strong communicator and team player with solid project management abilities.
 
 ## 🛠 Skills
 
