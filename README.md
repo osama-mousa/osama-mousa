@@ -73,4 +73,3 @@
 - 📧 **Email:** [osamasayd141@gmail.com](mailto:osamasayd141@gmail.com)  
 - 💼 **LinkedIn:** [ossamamousa](https://www.linkedin.com/in/ossamamousa)  
 - 💻 **GitHub:** [osama-mousa](https://github.com/osama-mousa)  
-- 📱 **Phone:** +905522965063  
